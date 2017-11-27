@@ -8,3 +8,4 @@
  * Time: 23:26
  */
 echo 'Hello Haim';
+print_r([]);
