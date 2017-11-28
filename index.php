@@ -8,6 +8,9 @@
  * Time: 23:26
  */
 
+<<<<<<< HEAD
 echo '1';
+=======
+>>>>>>> 40b246f3474bbb2cbc381e2d31c1f71cb2471c6b
 
 echo 'tal';
