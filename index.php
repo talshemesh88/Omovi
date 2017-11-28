@@ -7,6 +7,6 @@
  * Date: 27/11/2017
  * Time: 23:26
  */
-echo 'Hello Haim';
-print_r([]);
+
+echo 'Haim';
 
