@@ -8,6 +8,6 @@
  * Time: 23:26
  */
 
-echo 'Haim';
+echo '2';
 
 echo 'tal';
