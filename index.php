@@ -9,7 +9,4 @@
  */
 echo 'Hello Haim';
 print_r([]);
-print_r([]);
-print_r([]);
-print_r([]);
-print_r([]);
+
